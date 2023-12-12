@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background: #9FDAFF;
+}
+
 header {
     background: #02B7FF;
     color: white;
